@@ -1,7 +1,12 @@
-# Routing-Protocols-Distance-Vector-
+Programming Assignment/Project 2 : CSE 589 Modern Networking Concepts
+Routing Protocols
 
-# Compile Using :
-make
 
-# Use :
-./server -t <topology file name> -i <update interval>
+For Compiling the Program, use:
+ make
+
+R
+For running the program, use
+	./a.out -t <topologyfilename> -i <routing update interval>
+
+For example, ./a.out -t topology.txt -i 20
